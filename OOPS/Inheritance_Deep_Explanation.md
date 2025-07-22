@@ -4,6 +4,10 @@
 Inheritance is the process where one class (child/derived) acquires the properties and behaviors (methods) of another class (parent/base).
 
 📌 Think of inheritance like a child inheriting traits from a parent – both physical (attributes) and behavioral (methods).
+    Use the attributes and methods of the parent class
+    Override parent class methods to provide a specific implementation
+    Add its own additional attributes and methods
+
 
 2️⃣ Real-World Analogy:  
 Imagine you're building a vehicle system.
